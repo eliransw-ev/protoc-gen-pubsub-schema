@@ -8,3 +8,5 @@ protoc-gen-pubsub-schema
 
 # Test binary, built with `go test -c`
 *.test
+
+.idea
