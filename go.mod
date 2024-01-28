@@ -1,4 +1,4 @@
-module github.com/alpancs/protoc-gen-pubsub-schema
+module github.com/eliransw-ev/protoc-gen-pubsub-schema
 
 go 1.18
 
